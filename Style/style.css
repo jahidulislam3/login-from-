@@ -1,0 +1,38 @@
+body{
+    background-image: url('../Style/crew-4Hg8LH9Hoxc-unsplash.jpg');
+ }
+h3{
+    text-align: center;
+}
+.login {
+    background: lavenderblush;
+    margin: 105px 0px 0px 454px;
+    padding: 98px;
+    width: 180px;
+    height: 174px;
+    border: 2px solid black;
+    border-radius: 11px;
+    box-shadow: 8px 8px 13px black;
+}
+.input{
+    display: block;
+}
+input.submit {
+    color: white;
+    background: blue;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding: 8px 64px 8px 64px;
+    border-radius: 16px;
+    box-shadow: 10px 10px 10px mediumslateblue;
+}
+ .password{
+    padding: 6px 0px 6px 7px;
+    border-radius: 5px;
+ }
+ input.email {
+    padding: 6px 0px 6px 7px;
+    border-radius: 5px;
+}
